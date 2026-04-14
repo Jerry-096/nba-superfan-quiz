@@ -95,16 +95,4 @@ If I had more time or did a second version:
 - Stack Overflow (styling radio buttons with labels)
 - Class notes and slides
 
----
 
-## Repository
-
-```
-https://github.com/YOUR_USERNAME/nba-superfan-quiz
-```
-
-```bash
-git clone https://github.com/YOUR_USERNAME/nba-superfan-quiz.git
-cd nba-superfan-quiz
-open index.html
-```
